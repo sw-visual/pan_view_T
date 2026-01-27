@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="7.1.7" apprev="20981" hassounds="0" start="node3">
+  <panorama hideabout="1" id="node3">
+    <input levelbiashidpi="1.000" height="1000" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="1000" levelingpitch="0" levelingroll="0">
+      <level height="1000" preload="0" predecode="0" width="1000"/>
+      <level height="500" preload="1" predecode="1" width="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fov="140" pan="360" fovfisheye="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata author="" latitude="" nodeid="node3" title="" customnodeid="" tags="tempview360tarasovka" longitude="" heading="0" description="" info="" comment="" datetime="27.01.2026 15:09" source="" copyright=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label height="20" backgroundalpha="1" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" enabled="0" backgroundcolor="0xffffff" wordwrap="1" background="1" borderalpha="1" width="180" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomin="0" zoomafterinfov="140" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomout="0" softedge="0" enabled="1" zoomfov="40" blendtime="1" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" zoomcentercursor="1" lockedmouse="0" contextfullscreen="1" speedwheel="1" dblclickfullscreen="1" contextprojections="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" sensitivity="5" hideabout="1" lockedwheel="0" lockedkeyboard="0" rubberband="0" contextvr="1"/>
+  </panorama>
+  <masternode>
+    <userdata description="" author="" comment="" title="" tags="" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
